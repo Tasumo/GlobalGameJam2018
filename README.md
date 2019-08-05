@@ -1,2 +1,7 @@
 # GlobalGameJam2018
-Global Game Jam 2018
+A visual novel type game 
+
+What I Have learned:
+
+Formatting Json files
+
